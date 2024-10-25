@@ -1,6 +1,7 @@
 ## OII
 
 > Meu nome é Thais e eu amo animais, natureza e tecnologia, gosto muito de estudar e tenho 15 anos
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 <!--
 **pdchthais/pdchthais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
